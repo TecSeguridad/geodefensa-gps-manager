@@ -1,6 +1,4 @@
-# [Traccar Manager app](https://www.traccar.org/manager)
-
-[![Get it on Google Play](http://www.tananaev.com/badges/google-play.svg)](https://play.google.com/store/apps/details?id=org.traccar.manager) [![Download on the App Store](http://www.tananaev.com/badges/app-store.svg)](https://itunes.apple.com/app/traccar-manager/id1113966562)
+Sistema de rastreo GPS para Geodefensa - Basado en Traccar Manager
 
 ## Overview
 
